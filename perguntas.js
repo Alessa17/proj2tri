@@ -14,7 +14,7 @@ export const perguntas = [
                 texto: "Opta por livros que tem propriamente um pardrão e uma continução!",
                 afirmacao: [
                     "Quer saber sobre livros que seguem certo padrão como "pequeno princípe" ",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    " Quer saber sobre livros como por exemplo jose de alencar."
                 ],
                 proxima: 2,
             },
@@ -22,18 +22,18 @@ export const perguntas = [
     },
     {
         enunciado:
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Quando falamos a repeito de todo o cenário, literário.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Prefiro ambientes leves e tranquilos.",
+                    "Prefiro um ambiente assustador.",
+                    "Percebeu que o ambiente literário diz muito sobre a sua preferencial e livros que vocẽ tanto gosta."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "prefiro ler livro focado em dois únicos personagens.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
+                    "como por exemplo, romance.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],
