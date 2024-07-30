@@ -1,19 +1,19 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Ao pensar em campo literário, o que você defende:",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Defende que os melhores livros são os de períodos históricos, pois apresentam valores para a sociedade atual.",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Defende que os melhores livros são os de períodos históricos, pois apresentam valores para a sociedade atual..",
+                    "Prefere livros de histórias que não são reais pois fogem da realidade."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Opta por livros que tem propriamente um pardrão e uma continução!",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
+                    "Quer saber sobre livros que seguem certo padrão como "pequeno princípe" ",
                     "Pensou que IA pode ajudar em tarefas da sua vida."
                 ],
                 proxima: 2,
@@ -21,9 +21,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
-        alternativas: [
-            {
+        enunciado:
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
